@@ -1,0 +1,12 @@
+.search {
+background-color: yellow;
+align-items: right;
+}
+
+.input {
+    align-items: right;
+    margin-left: 70%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
